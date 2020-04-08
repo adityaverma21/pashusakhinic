@@ -1,0 +1,5 @@
+E:\aditya_project\pashusakhi\pashusakhi\bin\pashusakhi.dll
+E:\aditya_project\pashusakhi\pashusakhi\bin\pashusakhi.pdb
+E:\aditya_project\pashusakhi\pashusakhi\obj\Debug\pashusakhi.dll
+E:\aditya_project\pashusakhi\pashusakhi\obj\Debug\pashusakhi.pdb
+E:\aditya_project\pashusakhi\pashusakhi\obj\Debug\pashusakhi.csprojResolveAssemblyReference.cache
